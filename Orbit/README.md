@@ -18,6 +18,7 @@ Project Orbit
 - Ask the user for an application's location if it cannot be found
 - Save application paths for future use
 
+
 ## Future Ideas
 
 ### AI
@@ -42,7 +43,7 @@ Desktop:
 - Electron
 
 Backend:
-- Python
+- Node.js
 
 Database:
 - SQLite
