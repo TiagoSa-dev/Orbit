@@ -1,10 +1,13 @@
 Project Orbit 
 
 
+## Overview
+    Orbit is a personal desktop assistant focused on automation and AI.
 
+    
 ## Goals
 
-Orbit is a personal desktop assistant focused on automation and AI.
+
 
 The main goal is to automate everyday tasks while providing an extensible platform that can evolve over time.
 
@@ -18,10 +21,31 @@ The main goal is to automate everyday tasks while providing an extensible platfo
 - Ask the user for an application's location if it cannot be found
 - Save application paths for future use
 
-## Future ideas
+## Future Ideas
 
+### AI
+- AI integration
+- Better natural language understanding
+
+### Personalization
+- Custom themes
+
+### Accessibility
 - Voice recognition
-- File organization
-- Calendar helper
-- Custom Themes
-- Add API for better responses 
+
+
+## Tech Stack
+
+Frontend:
+- React
+- TypeScript
+- Tailwind CSS
+
+Desktop:
+- Electron
+
+Backend:
+- Python
+
+Database:
+- SQLite
