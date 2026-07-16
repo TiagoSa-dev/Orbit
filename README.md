@@ -6,10 +6,7 @@ Project Orbit
 
     
 ## Goals
-
-
-
-The main goal is to automate everyday tasks while providing an extensible platform that can evolve over time.
+    The main goal is to automate everyday tasks while providing an extensible platform that can evolve over time.
 
 ## Version 0.1
 
