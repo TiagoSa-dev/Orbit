@@ -29,6 +29,7 @@ Project Orbit
 
 ### Personalization
 - Custom themes
+- Better UI
 
 ### Accessibility
 - Voice recognition
