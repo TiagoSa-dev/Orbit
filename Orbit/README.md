@@ -12,11 +12,13 @@ Project Orbit
 
 - Simple chat window
 - Send button
-- Basic built-in limited responses
-- Open Windows applications
-- Search for application shortcuts
-- Ask the user for an application's location if it cannot be found
-- Save application paths for future use
+- Basic built-in responses
+- Scan installed applications
+- Build a local application library
+- Open applications using natural language commands
+- Automatically locate installed applications
+- Ask the user to locate an application if it cannot be found
+- Save application information for future use
 
 
 ## Future Ideas
@@ -47,3 +49,8 @@ Backend:
 
 Database:
 - SQLite
+
+
+## How to run this App 
+- First on the terminal enter the folder Orbit whit : "cd Orbit"
+- Then all we need to do is write:  "npm run dev" on the same terminal
